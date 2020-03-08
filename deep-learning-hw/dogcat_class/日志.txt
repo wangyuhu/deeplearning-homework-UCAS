@@ -1,0 +1,20 @@
+train Loss: 0.0010 Acc: 0.9727
+val Loss: 0.0003 Acc: 0.9932
+Epoch 6/9
+----------
+train Loss: 0.0010 Acc: 0.9749
+val Loss: 0.0003 Acc: 0.9931
+Epoch 7/9
+----------
+train Loss: 0.0009 Acc: 0.9769
+val Loss: 0.0003 Acc: 0.9939
+Epoch 8/9
+----------
+train Loss: 0.0009 Acc: 0.9769
+val Loss: 0.0003 Acc: 0.9932
+Epoch 9/9
+----------
+train Loss: 0.0009 Acc: 0.9758
+val Loss: 0.0003 Acc: 0.9944
+Training complete in 13m 52s
+Best val Acc: 0.994400
