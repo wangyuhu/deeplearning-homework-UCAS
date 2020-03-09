@@ -1,7 +1,7 @@
 # deeplearning-homework-UCAS
-##Get start!
+## Get start!
 
-###data download 
+### data download 
 
 mnist dataset download automatically;
 
